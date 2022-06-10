@@ -19,6 +19,14 @@ img{
     border-radius: 50%;
     margin-top: -50px;
 }
-ul{
+.contacts{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+.contacts .li{
+    width: 30px;
+}
+.contacts .ul{
     display: flex;
 }
