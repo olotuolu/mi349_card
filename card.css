@@ -2,6 +2,7 @@ body{
     background-color: #ccc;
     font-family: Helvetica, sans-serif;
     color: #222;
+    border-top: 100px;
 }
 img{
     width: 100%;
@@ -16,4 +17,8 @@ img{
 .card .avatar{
     width: 100px;
     border-radius: 50%;
+    margin-top: -50px;
+}
+ul{
+    display: flex;
 }
