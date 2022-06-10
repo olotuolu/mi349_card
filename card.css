@@ -1,12 +1,12 @@
-body {
+body{
     background-color: #ccc;
     font-family: Helvetica, sans-serif;
     color: #222;
 }
-img {
+img{
     width: 100%;
 }
-.card {
+.card{
     background-color: #f3f3f3;
     margin: 0 auto;
     width: 400px;
