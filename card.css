@@ -27,6 +27,6 @@ img{
 .contacts .li{
     width: 30px;
 }
-.contacts ul{
+ul{
     display: flex;
 }
